@@ -1,0 +1,59 @@
+.title {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    font-size: large;
+    margin: 10px;
+}
+
+#informasjon {
+    text-align: center;
+    
+}
+
+#div1 {
+    text-align: center;
+}
+
+#inputnumber {
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    outline-style: none;
+}
+
+#sjekkNumber {
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    outline-style: none;
+    
+}
+
+#result {
+    text-align: center;
+}
+
+#mitt_valg2 {
+    align-content: center;
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+}
+
+.container-container4{
+    text-align: center;
+    margin: 10px;
+}
+
+
+
+
+
